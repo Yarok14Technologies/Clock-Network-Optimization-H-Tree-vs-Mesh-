@@ -55,9 +55,6 @@ clock-network-optimization/
 # ⏱️ Clock Network Optimization — H-Tree vs Mesh
 
 **Yarok14 Technologies — Semiconductor & Systems Engineering**
-
-📌 Repository: [https://github.com/Yarok14Technologies/clock-network-optimization](https://github.com/Yarok14Technologies/clock-network-optimization)
-
 ---
 
 ## 🎯 Objective
